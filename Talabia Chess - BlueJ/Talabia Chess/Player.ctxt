@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=color\ turn
+comment1.target=Player(char,\ boolean)
+comment2.params=
+comment2.target=char\ getColor()
+comment3.params=
+comment3.target=boolean\ getTurn()
+comment4.params=turn
+comment4.target=void\ setTurn(boolean)
+comment5.params=
+comment5.target=int\ getMoveCount()
+comment6.params=moveCount
+comment6.target=void\ setMoveCount(int)
+comment7.params=
+comment7.target=boolean\ getWin()
+comment8.params=win
+comment8.target=void\ setWin(boolean)
+numComments=9

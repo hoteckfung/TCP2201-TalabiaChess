@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Hourglass
+comment1.params=owner\ curR\ curC\ opposite
+comment1.target=Hourglass(Player,\ int,\ int,\ boolean)
+comment2.params=newR\ newC
+comment2.target=boolean\ movePiece(int,\ int)
+comment3.params=distanceR\ distanceC\ newR\ newC
+comment3.target=boolean\ isValidMove(int,\ int,\ int,\ int)
+comment4.params=newR\ newC
+comment4.target=boolean\ isSameColorOccupied(int,\ int)
+comment5.params=newR\ newC
+comment5.target=boolean\ isNonEmptySquare(int,\ int)
+comment6.params=newR\ newC
+comment6.target=void\ updateBoard(int,\ int)
+numComments=7

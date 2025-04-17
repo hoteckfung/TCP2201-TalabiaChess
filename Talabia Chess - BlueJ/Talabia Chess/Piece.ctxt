@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Piece
+comment1.params=owner\ curR\ curC\ opposite
+comment1.target=Piece(Player,\ int,\ int,\ boolean)
+comment10.params=opposite
+comment10.target=void\ setOpposite(boolean)
+comment11.params=
+comment11.target=void\ changeOpposite()
+comment12.params=newR\ newC
+comment12.target=boolean\ movePiece(int,\ int)
+comment2.params=curR\ curC
+comment2.target=void\ refreshLocation(int,\ int)
+comment3.params=
+comment3.target=int\ getCurR()
+comment4.params=curR
+comment4.target=void\ setCurR(int)
+comment5.params=
+comment5.target=int\ getCurC()
+comment6.params=curC
+comment6.target=void\ setCurC(int)
+comment7.params=
+comment7.target=Player\ getOwner()
+comment8.params=owner
+comment8.target=void\ setOwner(Player)
+comment9.params=
+comment9.target=boolean\ isOpposite()
+numComments=13
